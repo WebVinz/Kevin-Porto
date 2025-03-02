@@ -3,7 +3,7 @@ import React from 'react';
 const Navbar = () => {
   return (
     <>
-      <nav className="bg-black border-none">
+      <nav className="bg-gradient-to-r from-[#2D1B5A] via-[#3A2678] to-[#4B3390] border-none">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-center mx-auto p-4">
           <button
             data-collapse-toggle="navbar-default"
